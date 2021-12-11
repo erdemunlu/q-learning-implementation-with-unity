@@ -1,2 +1,2 @@
-# q-learning-implementation-by-unity
- Q-Learning implementation by Unity
+# q-learning-implementation-with-unity
+ Q-Learning implementation with Unity
